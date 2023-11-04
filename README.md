@@ -35,6 +35,18 @@ created REST-FULL API's for team project planner tool.
 
 ##API's to manage board and task
 
+1.I executed a same plan as user for creating a board as well as task.
+
+2.In 3rd part of project we have to use save() funtion to create board and task beacouse of we dont have status and end_time to store.
+
+3.In add task 1st i have retrieved open board and then i added a task to open board.
+
+4.In close task i have used current time function to get end time of project and store it database.
+
+5.For update task and list board i have executed a same plan as i uased in 1st tow part of project.
+
+6.In export_board i have to use 2 database to retrieve a need data for our API and convert that data into text file as per need.
+
 1.
 
 
