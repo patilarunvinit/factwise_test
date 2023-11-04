@@ -26,4 +26,8 @@ created REST-FULL API's for team project planner tool.
 
 2.In adding users to team with 50 user limit i have used if else statment. in this process 1st i have to make sure to how many used already present in our database after that with help of if else statment and counter i have stored upto 50 users in teams.
 
+3.For removing user from team 1st we have to get all user list of team and after i have used remove() function on that list and store that new list in database again.
+
+4.For list team users i have used both apps models. 1st i have retrieved a user ids from team database and then retrieved user data for all ids.
+
 
