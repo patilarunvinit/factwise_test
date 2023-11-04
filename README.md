@@ -3,7 +3,7 @@
 
 created REST-FULL API's for team project planner tool.
 
-##API's to manage users
+## API's to manage users
 
 1.With the help of model and Serializer we have created a basic user for planner tool.
 
@@ -20,7 +20,7 @@ created REST-FULL API's for team project planner tool.
 7.IN 1st part of project i have face problem in to find user in teams and i use loop to find user and get that team id.
 
 
-##API's to manage teams
+## API's to manage teams
 
 1.For 1st three API's(create_team, update_team, list_all_teams) i have excuted a same plan as i used for 1st part of project. 
 
@@ -33,7 +33,7 @@ created REST-FULL API's for team project planner tool.
 5.In second part of project we have to store list of user in one place for that i have used ListTextField() list function from django_mysql.models.
 
 
-##API's to manage board and task
+## API's to manage board and task
 
 1.I executed a same plan as user for creating a board as well as task.
 
