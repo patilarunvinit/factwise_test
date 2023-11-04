@@ -30,4 +30,6 @@ created REST-FULL API's for team project planner tool.
 
 4.For list team users i have used both apps models. 1st i have retrieved a user ids from team database and then retrieved user data for all ids.
 
+5.In second part of project we have to store list of user in one place for that i have used ListTextField() list function from django_mysql.models.
+
 
