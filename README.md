@@ -20,6 +20,8 @@ created REST-FULL API's for team project planner tool.
 7.IN 1st part of project i have face problem in to find user in teams and i use loop to find user and get that team id.
 
 
+
+
 ##API's to manage teams
 
 1.For 1st three API's(create_team, update_team, list_all_teams) i have excuted a same plan as i used for 1st part of project. 
