@@ -59,3 +59,13 @@ typing_extensions==4.8.0
 tzdata==2023.3
 6.In export_board i have to use 2 database to retrieve a need data for our API and convert that data into text file as per need.
 
+
+## Built With
+
+1.python2
+
+2.django
+
+3.mysql
+
+4.rest_framework
