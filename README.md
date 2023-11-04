@@ -47,6 +47,3 @@ created REST-FULL API's for team project planner tool.
 
 6.In export_board i have to use 2 database to retrieve a need data for our API and convert that data into text file as per need.
 
-1.
-
-
