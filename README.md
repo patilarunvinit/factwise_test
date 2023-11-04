@@ -18,3 +18,12 @@ created REST-FULL API's for team project planner tool.
 6.To get team of a user 1st we have to find our user in team database with there id. For that i have find loop idea to get our user in team database and after that we have to get that id where our user id found. with the hepl of that team id we have displayed tram information of team. 
 
 7.IN 1st part of project i have face problem in to find user in teams and i use loop to find user and get that team id.
+
+
+##API's to manage teams
+
+1.For 1st three API's(create_team, update_team, list_all_teams) i have excuted a same plan as i used for 1st part of project. 
+
+2.In adding users to team with 50 user limit i have used if else statment. in this process 1st i have to make sure to how many used already present in our database after that with help of if else statment and counter i have stored upto 50 users in teams.
+
+
