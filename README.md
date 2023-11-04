@@ -45,5 +45,17 @@ created REST-FULL API's for team project planner tool.
 
 5.For update task and list board i have executed a same plan as i uased in 1st tow part of project.
 
+
+## Requirements
+
+asgiref==3.7.2
+Django==4.2.7
+django-mysql==4.12.0
+djangorestframework==3.14.0
+mysqlclient==2.2.0
+pytz==2023.3.post1
+sqlparse==0.4.4
+typing_extensions==4.8.0
+tzdata==2023.3
 6.In export_board i have to use 2 database to retrieve a need data for our API and convert that data into text file as per need.
 
