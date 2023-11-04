@@ -69,3 +69,23 @@ tzdata==2023.3
 3.mysql
 
 4.rest_framework
+
+## Roadmap
+
+1.start django project 
+
+2.install rest_framework and mysql_lite
+
+3.create app and set all settings of app
+
+4.set urls with need 
+
+5. create models and serializers to store data base
+
+6. set database settings in settings.py file
+
+7. make migtraions with mysql database system
+   
+8. shape view.py file with need of project
+
+3.
